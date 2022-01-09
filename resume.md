@@ -19,6 +19,7 @@ School email: [lucas.walters@dmail.dixie.edu](mailto:lucas.walters@dmail.dixie.e
 - Can work in stressful environments
 - Quick & willing learner
 - Moderately fluent in Python, Solidity, and Markdown
+- Basically fluent in Git version control
 
 ### **Experience**
 
