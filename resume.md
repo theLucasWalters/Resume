@@ -5,7 +5,7 @@
 974 E 100 S\
 Apt C-25\
 St. George, UT, 84770\
-(801) 425-7468\
+Personal phone: [+1 (801) 425-7468](tel:18014257468)\
 Personal email: [lwalters224@gmail.com](mailto:lwalters224@gmail.com)\
 School email: [lucas.walters@dmail.dixie.edu](mailto:lucas.walters@dmail.dixie.edu)
 
