@@ -1,4 +1,5 @@
 ###### This resume is current as of 8 January, 2022
+###### This document was written as a Markdown file and exported to a PDF
 
 ### Contact
 974 E 100 S\
