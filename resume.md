@@ -10,7 +10,6 @@ Personal email: [lwalters224@gmail.com](mailto:lwalters224@gmail.com)\
 School email: [lucas.walters@dmail.dixie.edu](mailto:lucas.walters@dmail.dixie.edu)
 
 # Lucas Walters
-###### References available upon request
 ---
 
 ### Skills
@@ -56,3 +55,5 @@ Air Force JROTC - 1.5 years:
 - Recruiting
 - Good Conduct (x4)
 - Rank of Cadet Airman 1st Class (c/A1C)
+
+###### References available upon request
