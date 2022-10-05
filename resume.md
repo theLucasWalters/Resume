@@ -1,13 +1,11 @@
-###### This resume is current as of 8 January, 2022
+###### This resume is current as of 5 October, 2022
 ###### This document was written as a Markdown file and exported to a PDF, you can view the original file [here](https://github.com/theLucasWalters/Resume/blob/main/resume.md).
 
 ### Contact
-974 E 100 S\
-Apt C-25\
-St. George, UT, 84770\
-Personal phone: [(801) 425-7468](tel:801-425-7468)\
-Personal email: [lwalters224@gmail.com](mailto:lwalters224@gmail.com)\
-School email: [lucas.walters@dmail.dixie.edu](mailto:lucas.walters@dmail.dixie.edu)
+7752 N Rose St\
+Eagle Mountain, UT, 84005\
+Personal phone: [(385) 955-1229](tel:385-955-1229)\
+Personal email: [lwalters224@gmail.com](mailto:lwalters224@gmail.com)
 
 # Lucas Walters
 
@@ -18,35 +16,33 @@ School email: [lucas.walters@dmail.dixie.edu](mailto:lucas.walters@dmail.dixie.e
 - Friendly & positive
 - Can work in stressful environments
 - Quick & willing learner
-- Moderately fluent in Python, Solidity, and Markdown
-- Basically fluent in Git version control
 
 ### **Experience**
 
 ##### Lagoon Amusement Park, Farmington UT - *Ride Attendant*
 ###### March 2017 - Sept 2017
-- Kept lines and ride enclosures clean, neat, and organized to keep the park looking professional and appealing
-- Helped foster a positive work environment by treating all guests and fellow employees with respect and consideration
-- Worked as part of a team to ensure an excellent guest experience
+- Kept lines and ride enclosures clean, neat, and organized to keep the park looking professional and appealing.
+- Helped foster a positive work environment by treating all guests and fellow employees with respect and consideration.
+- Worked as part of a team to ensure an excellent guest experience.
 
 ##### Links Product Development, Lindon UT - *Line Worker*
 ###### Sept 2019 - Dec 2021
-- Boxed products in an efficient and timely manner
-- Worked as part of a team to build high quality products in a fast-paced environment
+- Boxed products in an efficient and timely manner.
+- Worked as part of a team to build high quality products in a fast-paced environment.
 
 ##### ATL Technology, Springville UT - *COVID-19 Test Kit Builder (Temp)*
 ###### May 2020 - June 2020
-- Built COVID-19 test kits exactly according to FDA standards
-- Kept accurate and up-to-date documentation for products and materials handled by me
-- Assured the quality of incoming and outgoing products and materials was up to standard
+- Built COVID-19 test kits exactly according to FDA standards.
+- Kept accurate and up-to-date documentation for products and materials handled by me.
+- Assured the quality of incoming and outgoing products and materials were up to standard.
 
 ### **Education**
 
 ##### Clearfield High School, Clearfield UT - *GED/Diploma*
 ###### Graduated: October 2019
 
-##### Dixie State University, St. George UT - *Undergraduate*
-###### January 2022 - Current
+##### Utah Tech University, St. George UT - *Undergraduate*
+###### January 2022 - May 2022
 
 ### **Awards**
 
